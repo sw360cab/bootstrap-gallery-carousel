@@ -1,6 +1,6 @@
 Bootstrap Gallery Carousel
 ==========================
-This plugin aims to add a gallery feature to the existing Carousel of Bootstrap. Checkout Demo to see how it works.
+This plugin aims to add a gallery feature to the existing Carousel of Bootstrap. Checkout [Demo](https://rawgithub.com/sw360cab/bootstrap-gallery-carousel/master/demo/index.html) to see how it works.
 
 It simply generates a snippet of HTML given a list of image URIs as JSON Array.
 
@@ -47,7 +47,7 @@ Append the following to your HTML page.
 ```
 
 ##Configure and Let it work!
-Just use the following script
+Just use the following script:
 
     CarouselGallery.init({ /*configuration*/ });
     
@@ -100,7 +100,7 @@ Here is a list of configuration parameters that has to be passed as JSON object 
 * mini thumbs can be customized via *miniThumbClass* param and specifing layout of area using CSS selector **&lt;miniThumbClass&gt; .carousel-mini-thumb-item** and **&lt;miniThumbClass&gt; .carousel-mini-thumb-active**
 * indicators can be customized via *indicatorClass* param and specifing layout of area using CSS selectors like **&lt;indicatorClass&gt; li** an **&lt;indicatorClass&gt; .active** 
 
-For further info checkout #demo
+For further info checkout [Demo](https://rawgithub.com/sw360cab/bootstrap-gallery-carousel/master/demo/index.html)
 
 ##Future developments
 * Control nav issue
