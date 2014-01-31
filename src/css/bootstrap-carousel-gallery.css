@@ -1,0 +1,41 @@
+.carousel-container {
+    height: 550px;
+}
+
+.carousel-container .item > img {
+    width: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.carousel-indicators li {
+    background-color: #000000;
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+}
+
+.carousel-indicators .active {
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 6px;
+}
+
+.carousel-mini-thumb {
+    text-align: center;
+}
+
+.carousel-mini-thumb .carousel-mini-thumb-item {
+    width: 100px;
+    max-height: 65px;
+    opacity:0.4;
+    filter:alpha(opacity=40);
+    text-align: center;
+}
+
+.carousel-mini-thumb .carousel-mini-thumb-active {
+    opacity:1;
+    filter:alpha(opacity=100);
+}
+
