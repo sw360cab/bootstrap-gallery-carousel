@@ -1,4 +1,5 @@
-#Bootstrap Gallery Carousel
+Bootstrap Gallery Carousel
+==========================
 This plugin aims to add a gallery feature to the existing Carousel of Bootstrap. Checkout Demo to see how it works.
 
 It simply generates a snippet of HTML given a list of image URIs as JSON Array.
