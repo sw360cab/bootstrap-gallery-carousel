@@ -1,13 +1,13 @@
 .carousel-container {
-    height: 550px;
+    height: 500px;
 }
 
 .carousel-container .item > img {
-    width: 650px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 15px;
+    max-height: 400px;
 }
 
 .carousel-indicators li {
@@ -27,15 +27,13 @@
 }
 
 .carousel-mini-thumb .carousel-mini-thumb-item {
-    width: 100px;
-    max-height: 65px;
+    max-width: 100px;
+    height: 65px;
     opacity:0.4;
     filter:alpha(opacity=40);
-    text-align: center;
 }
 
 .carousel-mini-thumb .carousel-mini-thumb-active {
     opacity:1;
     filter:alpha(opacity=100);
 }
-

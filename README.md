@@ -103,6 +103,6 @@ Here is a list of configuration parameters that has to be passed as JSON object 
 For further info checkout [Demo](https://rawgithub.com/sw360cab/bootstrap-gallery-carousel/master/demo/index.html)
 
 ##Future developments
-* Control nav issue
+* Control nav issues
 * Mini thumb horiziontal scroll
 * Video Gallery based on jwPlayer
