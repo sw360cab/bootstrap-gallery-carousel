@@ -78,7 +78,7 @@ or
 
 Here is a list of configuration parameters that has to be passed as JSON object (whether not specified as *required*, the parameter has to be considered as op optional)
 
-* **imgs** [Object/Array] (required): array containing uris pointing to images
+* **imgs** [Object or Array] *)required()): array containing uris pointing to images
 * **targetDiv** [String]: id of element which code should be appended to
 * **carouselId** [String]: id of carousel area
 * **carouselClass** [String]: carousel class
